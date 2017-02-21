@@ -2,6 +2,10 @@ package com.wp.jvm;
 
 import java.util.Random;
 
+//参考博文    http://learnworld.iteye.com/blog/1402763
+
+
+
 /**
  * Created by 王萍 on 2017/2/21 0021.
  */
