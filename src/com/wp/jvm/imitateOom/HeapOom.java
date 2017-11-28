@@ -5,6 +5,7 @@ import java.util.LinkedList;
 /**
  * @author 王萍
  * @date 2017/11/28 0028
+ * VM options:-Xms30m -Xmx30m -XX:+HeapDumpOnOutOfMemoryError
  */
 public class HeapOom {
 
