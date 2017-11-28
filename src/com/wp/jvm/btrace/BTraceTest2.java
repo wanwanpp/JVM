@@ -1,4 +1,4 @@
-package com.wp.jvm;
+package com.wp.jvm.btrace;
 
 import java.util.Random;
 

@@ -1,4 +1,4 @@
-package com.wp.jvm;
+package com.wp.jvm.btrace;
 
 public class Counter {
     // 总数  
