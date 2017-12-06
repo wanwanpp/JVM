@@ -10,7 +10,7 @@ import java.util.LinkedList;
 public class HeapOom {
 
     public static void main(String[] args) {
-        LinkedList<TestObject> list = new LinkedList<>();
+        LinkedList<TestObject> list = new LinkedList<TestObject>();
         while (true) {
             list.add(new TestObject());
         }

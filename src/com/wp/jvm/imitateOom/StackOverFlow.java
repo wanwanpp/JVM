@@ -14,7 +14,7 @@ public class StackOverFlow {
         recursion();
     }
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws Throwable {
         StackOverFlow stackOverFlow = new StackOverFlow();
         try {
             stackOverFlow.recursion();
