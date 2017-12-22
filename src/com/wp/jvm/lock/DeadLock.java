@@ -6,7 +6,7 @@ package com.wp.jvm.lock;
  */
 
 /**
- * 先使用jps找到当前jvm的进程id，然后jstack -l jvmid,会出现threaddump文件。
+ * 先使用jps找到当前jvm的进程id，然后jstack -l jvmid,会出现threaddump。
  */
 public class DeadLock {
 
